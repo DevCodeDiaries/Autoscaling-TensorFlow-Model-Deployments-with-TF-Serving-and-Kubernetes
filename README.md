@@ -13,11 +13,9 @@ Deploy and scale TensorFlow models on Kubernetes using TF Serving and Horizontal
 
 ---
 
-## 🛠️ Quick Setup (Cloud Shell)
-
+## 🛠️ Quick Setup (Cloud Shell) 
+## Updated Code!
 ```bash
-curl -LO https://raw.githubusercontent.com/DevCodeDiaries/Google-Cloud-Skills-Boost/main/Autoscaling%20TensorFlow%20Model%20Deployments%20with%20TF%20Serving%20and%20Kubernetes/devcode777.sh
-
-sudo chmod +x devcode777.sh
-
-./devcode777.sh
+curl -LO raw.githubusercontent.com/Techcps/Google-Cloud-Skills-Boost/master/Autoscaling%20TensorFlow%20Model%20Deployments%20with%20TF%20Serving%20and%20Kubernetes/techcps777.sh
+sudo chmod +x techcps777.sh
+./techcps777.sh
